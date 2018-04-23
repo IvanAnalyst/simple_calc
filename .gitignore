@@ -1,2 +1,5 @@
-# Dev
+# dev specificIDE specific files
 **/.idea
+
+# python specific
+*.pyc
